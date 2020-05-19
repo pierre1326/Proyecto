@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="hintIP">Write IP…</string>
+    <string name="hintDB">Database Name</string>
+    <string name="hintUser">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="bookName">Nombre del libro</string>
+    <string name="bookAuthor">Autor del libro</string>
+    <string name="bookDescription">Descripcion del libro</string>
+    <string name="buttonFinish">Finalizar</string>
+    <string name="removeDescription">Eliminar elemento</string>
+    <string name="updateElement">Actualizar elemento</string>
+    <item name="key" type="id"></item>
+</resources>
